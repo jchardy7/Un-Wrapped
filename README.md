@@ -13,3 +13,5 @@ Stat 3250
 
 Note: Add a new row to the table by adding "| a | b | c | d |" as a new line below the last row
 
+Spotify Dataset: Kaggle-sourced Spotify dataset containing approximately 114,000 tracks and 21 variables, including Spotify’s internally generated acoustic features (e.g, danceability, energy, instrumentalness), track metadata, and an algorithmic popularity score ranging from 0 to 100 | [dataset.csv](https://github.com/user-attachments/files/25219228/dataset.csv) | Norah Masrour
+
